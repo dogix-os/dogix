@@ -125,6 +125,5 @@ zsh
 # Dogix custom packages
 neovim
 neofetch
-cowsay
 lua
-
+git
