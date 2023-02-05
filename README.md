@@ -1,2 +1,2 @@
 # dogix
-a linux distribution focused on the dog species of animals
+Dogix is an Arch-Based Linux distrobution that has been named after the species of dogs.
